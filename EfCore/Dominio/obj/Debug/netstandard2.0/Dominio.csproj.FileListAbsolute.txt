@@ -1,0 +1,9 @@
+/home/yuri/public_html/AspNetCoreCurso/EfCore/Dominio/bin/Debug/netstandard2.0/Dominio.deps.json
+/home/yuri/public_html/AspNetCoreCurso/EfCore/Dominio/bin/Debug/netstandard2.0/Dominio.dll
+/home/yuri/public_html/AspNetCoreCurso/EfCore/Dominio/bin/Debug/netstandard2.0/Dominio.pdb
+/home/yuri/public_html/AspNetCoreCurso/EfCore/Dominio/obj/Debug/netstandard2.0/Dominio.csprojAssemblyReference.cache
+/home/yuri/public_html/AspNetCoreCurso/EfCore/Dominio/obj/Debug/netstandard2.0/Dominio.csproj.CoreCompileInputs.cache
+/home/yuri/public_html/AspNetCoreCurso/EfCore/Dominio/obj/Debug/netstandard2.0/Dominio.AssemblyInfoInputs.cache
+/home/yuri/public_html/AspNetCoreCurso/EfCore/Dominio/obj/Debug/netstandard2.0/Dominio.AssemblyInfo.cs
+/home/yuri/public_html/AspNetCoreCurso/EfCore/Dominio/obj/Debug/netstandard2.0/Dominio.dll
+/home/yuri/public_html/AspNetCoreCurso/EfCore/Dominio/obj/Debug/netstandard2.0/Dominio.pdb

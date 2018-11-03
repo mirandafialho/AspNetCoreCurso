@@ -1,0 +1,11 @@
+/home/yuri/public_html/Aula2/bin/Debug/netcoreapp2.1/AulaNETCore.deps.json
+/home/yuri/public_html/Aula2/bin/Debug/netcoreapp2.1/AulaNETCore.runtimeconfig.json
+/home/yuri/public_html/Aula2/bin/Debug/netcoreapp2.1/AulaNETCore.runtimeconfig.dev.json
+/home/yuri/public_html/Aula2/bin/Debug/netcoreapp2.1/AulaNETCore.dll
+/home/yuri/public_html/Aula2/bin/Debug/netcoreapp2.1/AulaNETCore.pdb
+/home/yuri/public_html/Aula2/obj/Debug/netcoreapp2.1/AulaNETCore.csprojAssemblyReference.cache
+/home/yuri/public_html/Aula2/obj/Debug/netcoreapp2.1/AulaNETCore.csproj.CoreCompileInputs.cache
+/home/yuri/public_html/Aula2/obj/Debug/netcoreapp2.1/AulaNETCore.AssemblyInfoInputs.cache
+/home/yuri/public_html/Aula2/obj/Debug/netcoreapp2.1/AulaNETCore.AssemblyInfo.cs
+/home/yuri/public_html/Aula2/obj/Debug/netcoreapp2.1/AulaNETCore.dll
+/home/yuri/public_html/Aula2/obj/Debug/netcoreapp2.1/AulaNETCore.pdb
