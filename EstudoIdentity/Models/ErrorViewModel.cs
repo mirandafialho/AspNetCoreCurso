@@ -1,6 +1,6 @@
 using System;
 
-namespace Identity.Models
+namespace EstudoIdentity.Models
 {
     public class ErrorViewModel
     {

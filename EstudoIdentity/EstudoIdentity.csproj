@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <UserSecretsId>aspnet-Identity-6ADBF8F6-C406-4D60-8D6E-324EAA6AB518</UserSecretsId>
+    <UserSecretsId>aspnet-EstudoIdentity-FD451A18-AFEE-4982-A39F-BE0167273B58</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

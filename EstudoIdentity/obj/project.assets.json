@@ -12225,11 +12225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/yuri/public_html/AspNetCoreCurso/Identity/Identity.csproj",
-      "projectName": "Identity",
-      "projectPath": "/home/yuri/public_html/AspNetCoreCurso/Identity/Identity.csproj",
+      "projectUniqueName": "/home/yuri/public_html/AspNetCoreCurso/EstudoIdentity/EstudoIdentity.csproj",
+      "projectName": "EstudoIdentity",
+      "projectPath": "/home/yuri/public_html/AspNetCoreCurso/EstudoIdentity/EstudoIdentity.csproj",
       "packagesPath": "/home/yuri/.nuget/packages/",
-      "outputPath": "/home/yuri/public_html/AspNetCoreCurso/Identity/obj/",
+      "outputPath": "/home/yuri/public_html/AspNetCoreCurso/EstudoIdentity/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
